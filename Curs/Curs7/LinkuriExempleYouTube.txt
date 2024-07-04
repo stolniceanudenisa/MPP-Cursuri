@@ -1,0 +1,17 @@
+	Linkuri catre video-uri cu explicatii(Curs MPP 2020)
+
+
+
+1. Explicatii implementare MiniChat - C#
+
+https://www.youtube.com/watch?v=vpQAMt8h8wU
+
+
+2. Explicatii implementare MiniChat - Protocol Buffers
+
+https://www.youtube.com/watch?v=DMpTTIHpC-8
+
+
+
+
+
